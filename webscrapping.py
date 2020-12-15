@@ -1,3 +1,15 @@
+"""
+Ceci n'est pas un code à lire. Ce sont mes essais de webscrapping sur le site seloger.com
+J'ai rencontré plusieurs problèmes.
+Le webscrapping sur site internet standart est assez simple avec BeautifulSoup, par exemple le site wikipédia (cf mon projet de l'année dernière)
+Ici, la page web étant dynamique, j'ai dû apprendre à utiliser Selenium.
+Après mettre formé sur les fonctions de base de ce module, j'ai rencontré un problème : le site seloger.com me bloquer l'accès (error 401)
+S'en est suivi 4 longues heures pour tenter de contourner la protection du site : création de cookies artificiel, changement d'adresse IP, et pleins d'astuces sur internet, visiblement obsolete.
+J'ai fini par renoncé et j'ai téléchargé deux bases de données en opensource sur internet 
+Les deux fichiers sont "Housing_Project1_HousingSimpleRegression.py" et "Housing_Project.py"
+"""
+
+
 import pandas as pd
 import requests
 from urllib.request import Request, urlopen
