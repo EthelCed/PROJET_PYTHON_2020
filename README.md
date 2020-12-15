@@ -1,17 +1,14 @@
 ## <i>ENSAE Paris - IP Paris  </i>
 
-# GROUPE DE STATISTIQUE APPLIQUEE 2A 2020-2021
+# PROJET PYTHON 2A 2020-2021
 
-
-Dédié au projet de statistique appliquée sur <b>l'utilisation des réseaux de Neurones pour la tarification d'assurance Automobile</b>, cet dépôt GitHub retrace l'ensemble des ressources de notre travail. 
-
+L'objet de cette étude est de mettre en place un modèle de prédiction du montant de la transaction immobilière d'un bien à partir de caractéristiques observables du bien (surface, nombre de pièces, ...) et de variables sur l'environnement du bien (niveau de vie alentour, nombre de commerces alentours, densité de la population, ...)
 ## Réalisé par : 
 
-* Eugénie Rinelle TOUKAM (eugenierinelle.toukam@ensae-paristech.fr)
-* Elaouni FOUZIA (fouzia.elaouni@ensae.fr)
 * Ethel Cédric NZATI (ethelcedric.nzati@ensae.fr)
-* Lasme Ephrem Dominique ESSOH (lasmeephremdominique.essoh@ensae.fr)
+* Joris PHILIPPOTEAUX (joris.philippoteaux@ensae.fr)
+* yorick PARANT (yorick.parant@ensae.fr)
 
 ## Encadrant :
 
-* Guillaume GORGE (guillaume.gorge@xa.com)
+* Selim MELLOUK (selim.MELLOUK@ensae.fr)
