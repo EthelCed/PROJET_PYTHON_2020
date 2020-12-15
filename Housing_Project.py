@@ -1,3 +1,12 @@
+"""
+Ce fichier utilise la base de donnée "HousingDatabase.csv"
+Il s'agit d'une base donnée de 41 variables, pour à peu près 1450 lignes.
+La première partie consiste en le prétraitement de la base donnée. 
+Entre autre, standartisation des variables, gestions des données manquantes, etc..
+Ensuite, j'ai fait de la DataVisualisation et j'ai mis en exergue des premières statistiques, pour cerner les variables intéressantes.
+J'ai enfin réalisé des regressions linéaires simples et multiples.
+"""
+
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
