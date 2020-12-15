@@ -1,3 +1,9 @@
+"""
+Il s'agit d'un premier projet, sur une petite base de données "HousingSimpleRegression.csv"
+Après le prétraitement, j'ai réalisé des regressions linéaires In-sample.
+Un projet plus poussé a été mené sur une plus grosse base de données, ceci se trouve dans le fichier "Housing_Project.py"
+"""
+
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
